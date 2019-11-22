@@ -1,0 +1,123 @@
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo\Skills Demo\bin\Debug\Skills Demo.exe.config
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo\Skills Demo\bin\Debug\Skills Demo.exe
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo\Skills Demo\bin\Debug\Skills Demo.pdb
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo\Skills Demo\obj\Debug\Skills Demo.csprojResolveAssemblyReference.cache
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo\Skills Demo\obj\Debug\Skills_Demo.Form1.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo\Skills Demo\obj\Debug\Skills_Demo.Properties.Resources.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo\Skills Demo\obj\Debug\Skills Demo.csproj.GenerateResource.Cache
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo\Skills Demo\obj\Debug\Skills Demo.exe
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo\Skills Demo\obj\Debug\Skills Demo.pdb
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo\Skills Demo\obj\Debug\Skills_Demo.Notepad.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NP\Skills Demo\bin\Debug\Skills Demo.exe.config
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NP\Skills Demo\obj\Debug\Skills Demo.exe
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NP\Skills Demo\obj\Debug\Skills Demo.pdb
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NP\Skills Demo\obj\Debug\Skills Demo.csprojResolveAssemblyReference.cache
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NP\Skills Demo\obj\Debug\Skills_Demo.Calculator.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NP\Skills Demo\obj\Debug\Skills_Demo.Form1.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NP\Skills Demo\obj\Debug\Skills_Demo.Notepad.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NP\Skills Demo\obj\Debug\Skills_Demo.Properties.Resources.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NP\Skills Demo\obj\Debug\Skills Demo.csproj.GenerateResource.Cache
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalc\Skills Demo\bin\Debug\Skills Demo.exe.config
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalc\Skills Demo\obj\Debug\Skills Demo.exe
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalc\Skills Demo\obj\Debug\Skills Demo.pdb
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalc\Skills Demo\bin\Debug\Skills Demo.exe
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalc\Skills Demo\bin\Debug\Skills Demo.pdb
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalc\Skills Demo\obj\Debug\Skills Demo.csprojResolveAssemblyReference.cache
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalc\Skills Demo\obj\Debug\Skills_Demo.Calculator.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalc\Skills Demo\obj\Debug\Skills_Demo.Form1.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalc\Skills Demo\obj\Debug\Skills_Demo.Notepad.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalc\Skills Demo\obj\Debug\Skills_Demo.Properties.Resources.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalc\Skills Demo\obj\Debug\Skills Demo.csproj.GenerateResource.Cache
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPV\Skills Demo\bin\Debug\Skills Demo.exe.config
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPV\Skills Demo\obj\Debug\Skills Demo.exe
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPV\Skills Demo\obj\Debug\Skills Demo.pdb
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPV\Skills Demo\bin\Debug\Skills Demo.exe
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPV\Skills Demo\bin\Debug\Skills Demo.pdb
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPV\Skills Demo\obj\Debug\Skills Demo.csprojResolveAssemblyReference.cache
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPV\Skills Demo\obj\Debug\Skills_Demo.Calculator.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPV\Skills Demo\obj\Debug\Skills_Demo.Form1.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPV\Skills Demo\obj\Debug\Skills_Demo.Notepad.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPV\Skills Demo\obj\Debug\Skills_Demo.PictureViewer.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPV\Skills Demo\obj\Debug\Skills_Demo.Properties.Resources.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPV\Skills Demo\obj\Debug\Skills Demo.csproj.GenerateResource.Cache
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwB\Skills Demo\bin\Debug\Skills Demo.exe.config
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwB\Skills Demo\obj\Debug\Skills Demo.exe
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwB\Skills Demo\obj\Debug\Skills Demo.pdb
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwB\Skills Demo\bin\Debug\Skills Demo.exe
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwB\Skills Demo\bin\Debug\Skills Demo.pdb
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwB\Skills Demo\obj\Debug\Skills Demo.csprojResolveAssemblyReference.cache
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwB\Skills Demo\obj\Debug\Skills_Demo.Calculator.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwB\Skills Demo\obj\Debug\Skills_Demo.Form1.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwB\Skills Demo\obj\Debug\Skills_Demo.Notepad.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwB\Skills Demo\obj\Debug\Skills_Demo.PictureViewer.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwB\Skills Demo\obj\Debug\Skills_Demo.Properties.Resources.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwB\Skills Demo\obj\Debug\Skills_Demo.WebBrowser.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwB\Skills Demo\obj\Debug\Skills Demo.csproj.GenerateResource.Cache
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwB\Skills Demo\obj\Debug\Skills_Demo.ModelDatabase.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProj\Skills Demo\bin\Debug\Skills Demo.exe.config
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProj\Skills Demo\obj\Debug\Skills Demo.exe
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProj\Skills Demo\obj\Debug\Skills Demo.pdb
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProj\Skills Demo\bin\Debug\Skills Demo.exe
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProj\Skills Demo\bin\Debug\Skills Demo.pdb
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProj\Skills Demo\obj\Debug\Skills Demo.csprojResolveAssemblyReference.cache
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProj\Skills Demo\obj\Debug\Skills_Demo.Calculator.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProj\Skills Demo\obj\Debug\Skills_Demo.Form1.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProj\Skills Demo\obj\Debug\Skills_Demo.ModelDatabase.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProj\Skills Demo\obj\Debug\Skills_Demo.Notepad.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProj\Skills Demo\obj\Debug\Skills_Demo.PictureViewer.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProj\Skills Demo\obj\Debug\Skills_Demo.Properties.Resources.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProj\Skills Demo\obj\Debug\Skills_Demo.WebBrowser.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProj\Skills Demo\obj\Debug\Skills Demo.csproj.GenerateResource.Cache
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProj\Skills Demo\obj\Debug\Skills_Demo.dBInsert.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProj\Skills Demo\obj\Debug\Skills_Demo.editDetails.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProjFine\Skills Demo\bin\Debug\Skills Demo.exe.config
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProjFine\Skills Demo\obj\Debug\Skills Demo.exe
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProjFine\Skills Demo\obj\Debug\Skills Demo.pdb
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProjFine\Skills Demo\obj\Debug\Skills Demo.csprojResolveAssemblyReference.cache
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProjFine\Skills Demo\obj\Debug\Skills_Demo.Calculator.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProjFine\Skills Demo\obj\Debug\Skills_Demo.dBInsert.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProjFine\Skills Demo\obj\Debug\Skills_Demo.editDetails.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProjFine\Skills Demo\obj\Debug\Skills_Demo.Form1.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProjFine\Skills Demo\obj\Debug\Skills_Demo.ModelDatabase.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProjFine\Skills Demo\obj\Debug\Skills_Demo.Notepad.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProjFine\Skills Demo\obj\Debug\Skills_Demo.PictureViewer.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProjFine\Skills Demo\obj\Debug\Skills_Demo.Properties.Resources.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProjFine\Skills Demo\obj\Debug\Skills_Demo.WebBrowser.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProjFine\Skills Demo\obj\Debug\Skills Demo.csproj.GenerateResource.Cache
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProjFine\Skills Demo\bin\Debug\Skills Demo.exe
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProjFine\Skills Demo\bin\Debug\Skills Demo.pdb
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo - NPcalcPVwBProjFine\Skills Demo\obj\Debug\Skills_Demo.About.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\bin\Debug\Skills Demo.exe.config
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\obj\Debug\Skills Demo.exe
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\obj\Debug\Skills Demo.pdb
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\bin\Debug\Skills Demo.exe
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\bin\Debug\Skills Demo.pdb
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\obj\Debug\Skills Demo.csprojResolveAssemblyReference.cache
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\obj\Debug\Skills_Demo.About.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\obj\Debug\Skills_Demo.Calculator.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\obj\Debug\Skills_Demo.dBInsert.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\obj\Debug\Skills_Demo.editDetails.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\obj\Debug\Skills_Demo.Form1.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\obj\Debug\Skills_Demo.ModelDatabase.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\obj\Debug\Skills_Demo.Notepad.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\obj\Debug\Skills_Demo.PictureViewer.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\obj\Debug\Skills_Demo.Properties.Resources.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\obj\Debug\Skills_Demo.WebBrowser.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Graphic User Interfacing Programming\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\obj\Debug\Skills Demo.csproj.GenerateResource.Cache
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\GUI's\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\bin\Debug\Skills Demo.exe.config
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\GUI's\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\obj\Debug\Skills Demo.exe
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\GUI's\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\obj\Debug\Skills Demo.pdb
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\GUI's\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\bin\Debug\Skills Demo.exe
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\GUI's\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\bin\Debug\Skills Demo.pdb
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\GUI's\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\obj\Debug\Skills Demo.csprojAssemblyReference.cache
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\GUI's\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\obj\Debug\Skills_Demo.About.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\GUI's\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\obj\Debug\Skills_Demo.Calculator.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\GUI's\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\obj\Debug\Skills_Demo.dBInsert.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\GUI's\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\obj\Debug\Skills_Demo.editDetails.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\GUI's\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\obj\Debug\Skills_Demo.Form1.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\GUI's\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\obj\Debug\Skills_Demo.ModelDatabase.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\GUI's\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\obj\Debug\Skills_Demo.Notepad.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\GUI's\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\obj\Debug\Skills_Demo.PictureViewer.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\GUI's\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\obj\Debug\Skills_Demo.Properties.Resources.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\GUI's\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\obj\Debug\Skills_Demo.WebBrowser.resources
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\GUI's\SkillsDemo\Skills Demo Upload\Skills Demo - Finished\Skills Demo\obj\Debug\Skills Demo.csproj.GenerateResource.cache
